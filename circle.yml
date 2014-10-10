@@ -1,5 +1,6 @@
 deployment: 
 master:
   branch: master
-   commands: 
+   commands:
     - git branch
+
