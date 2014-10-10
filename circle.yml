@@ -1,5 +1,5 @@
 deployment: 
   branch: master
-   commands:
+   commands: 
     - export TEST=`ls`
     - echo $TEST
