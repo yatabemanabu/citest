@@ -2,5 +2,4 @@ deployment:
 master:
   branch: master
    commands: 
-    - export TEST=`ls`
-    - echo $TEST
+    - git branch
