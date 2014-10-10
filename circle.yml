@@ -1,4 +1,5 @@
 deployment: 
+master:
   branch: master
    commands: 
     - export TEST=`ls`
